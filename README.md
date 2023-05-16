@@ -8,7 +8,7 @@
 <br></br>
 
 - 👩‍💻 All of my projects are available at [My Github](https://github.com/Seyma44)
-- 📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/%C5%9Feyma-sand%C4%B1k%C3%A7%C4%B1-06966316b/)
+- 📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/seymasandikci/)
 - 💬 Ask me about React - JS or any tech related stuff
 - 📫 How to reach me: Instagram - @seymadev
 - 🌱 I’m looking to collaborate on Instagram
@@ -18,7 +18,7 @@
 
 <h3  align="left">Connect with me:</h3>
   <p  align="left">
-    <a  href="https://linkedin.com/in/şeyma sandikçi"  target="blank"><img  align="center"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"  alt="şeyma sandikçi"  height="30"  width="40"  /></a>
+    <a  href="https://www.linkedin.com/in/seymasandikci/"  target="blank"><img  align="center"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"  alt="şeyma sandikçi"  height="30"  width="40"  /></a>
   </p>
 
 <h3  align="left">Languages and Tools:</h3>
