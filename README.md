@@ -48,8 +48,8 @@
  <br></br>
 
 <div align="center" float="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seyma44&layout=compact&theme=cobalt&hide_border=true&border_radius=8.5&fire=E444EB" height="200px" width="400px"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=seyma44&theme=cobalt&hide_border=true&border_radius=8.5&fire=E444EB)&show_icons=true&locale=en" 
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Seyma44&layout=compact&theme=cobalt&hide_border=true&border_radius=8.5&fire=E444EB" height="200px" width="400px"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=seyma44&theme=cobalt&hide_border=true&border_radius=8.5&fire=E444EB)&show_icons=true&locale=en" 
        height="200px" width="600px" />
 </div>
 
