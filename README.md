@@ -1,4 +1,6 @@
-<h1 align="center"> Hello from Seyma <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="38px" alt="hi"> 
+<h1 align="center"> Hello from Seyma <img src="https://github.com/Seyma44/Seyma44/assets/3766249/55e442cf-eb81-4534-8cc8-c38ee91b99bf" width="38px" alt="hi"> 
+
+
 <h3  align="center">A passionate frontend developer from Türkiye</h3>
 <div align="center">
   <img src="https://github.com/Seyma44/Seyma44/assets/3766249/459905c1-c887-4d5f-9a03-a3adebbedfbc" width="300" height="200"/>
@@ -6,26 +8,19 @@
 <br></br>
   <p  align="center"> <img  src="https://komarev.com/ghpvc/?username=seyma44&label=Profile%20views&color=faa0ec&style=flat"  alt="seyma44"  /> </p>
 <br></br>
-
-- 👩‍💻 All of my projects are available at [My Github](https://github.com/Seyma44)
+ <p  align="center">
 - 📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/seymasandikci/)
-- 💬 Ask me about React,Next or any tech related stuff
+- 💬 Ask me about Reactjs,Nextjs or any tech related stuff
 - 📫 How to reach me: Instagram - @seymadevsoft
 - 🌱 I’m looking to collaborate on Instagram
 - 😄 Pronouns: She/Her
-
-<hr align="center" size="1px" width="100%" color="#f792f4">
-
-<h3  align="left">Connect with me:</h3>
-  <p  align="left">
-    <a  href="https://www.linkedin.com/in/seymasandikci/"  target="blank"><img  align="center"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"  alt="şeyma sandikçi"  height="30"  width="40"  /></a>
-  </p>
+ </p>
 
 
-<h3  align="left">Languages and Tools:</h3>
 <!--
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![ANDROID](https://img.shields.io/badge/android-%2320232a.svg?style=for-the-badge&logo=android&logoColor=%a4c639) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 -->
+<h3  align="center">Languages and Tools</h3>
 
 ---
 <div style="display: flex; align-items: flex-start; align: center">
@@ -81,14 +76,13 @@
 
 ---
 
-<h3  align="left">Support Me:</h3>
-<p><a  href="https://www.buymeacoffee.com/seyma">  <img  align="center"  src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png"  height="50"  width="210"  alt="seyma"  /></a></p><br><br>
-<hr align="center" size="1px" width="100%" color="#f792f4">
-<div align="center">
-  <img src="https://github.com/madushadhanushka/github-readme/blob/output/github-contribution-snake.svg"/>
-</div>
+<p  align="center">
+<a  href="https://www.buymeacoffee.com/seyma">  <img  align="center"  src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png"  height="50"  width="210"  alt="seyma"  /></a><img src="https://github.com/Seyma44/Seyma44/assets/3766249/64d2e76f-d677-40bc-a519-096f0179ad17" width="58px" alt="connect">Support Me</p> 
 
+<p align="center">Connect with me<img src="https://github.com/Seyma44/Seyma44/assets/3766249/b5115861-e923-4c2b-b5d7-3d475035f729" width="58px" alt="connect">  <a  href="https://www.linkedin.com/in/seymasandikci/" target="blank"><img  align="center"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"  alt="şeyma sandıkçı"  height="30"  width="40"  /></a> </p>
+<hr align="center" size="1px" width="100%" color="#fc05e4">
  <br></br>
+
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=seyma44&column=7&theme=dracula&margin-w=15"/>
