@@ -8,12 +8,17 @@
 <br></br>
   <p  align="center"> <img  src="https://komarev.com/ghpvc/?username=seyma44&label=Profile%20views&color=faa0ec&style=flat"  alt="seyma44"  /> </p>
 <br></br>
+
+
  <p  align="center">
-- 📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/seymasandikci/)
-- 💬 Ask me about Reactjs,Nextjs or any tech related stuff
-- 📫 How to reach me: Instagram - @seymadevsoft
-- 🌱 I’m looking to collaborate on Instagram
-- 😄 Pronouns: She/Her
+<p  align="center"> A computer Engineer (more than 10 years)</p>
+
+
+ ⭐ Know about my experiences [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seymasandikci/) 
+ ⭐ Ask me about Reactjs,Nextjs or any tech related stuff
+ ⭐ How to reach me: Instagram - @seymadevsoft [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/seymadevsoft) 
+ ⭐ I’m looking to collaborate on Instagram
+ ⭐ Pronouns: She/Her  
  </p>
 
 
