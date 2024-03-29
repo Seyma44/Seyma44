@@ -17,7 +17,7 @@
  ⭐ Know about my experiences [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seymasandikci/) 
  ⭐ Ask me about Reactjs,Nextjs or any tech related stuff
  ⭐ How to reach me: Instagram - @seymadevsoft [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/seymadevsoft) 
- ⭐ I’m looking to collaborate on Instagram
+ ⭐ I’m looking to collaborate on open source projects
  ⭐ Pronouns: She/Her  
  </p>
 
