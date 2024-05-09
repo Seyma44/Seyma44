@@ -82,7 +82,7 @@
 ---
 
 <p  align="center">
-<a  href="https://www.buymeacoffee.com/seyma">  <img  align="center"  src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png"  height="50"  width="210"  alt="seyma"  /></a><img src="https://github.com/Seyma44/Seyma44/assets/3766249/64d2e76f-d677-40bc-a519-096f0179ad17" width="58px" alt="connect">Support Me</p> 
+<a  href="https://www.buymeacoffee.com/seyma">  <img  align="center"  src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png"  height="50"  width="210"  alt="seyma"  /></a><img src="https://github.com/Seyma44/Seyma44/assets/3766249/64d2e76f-d677-40bc-a519-096f0179ad17" width="58px" alt="connect">Support</p> 
 
 <p align="center">Connect with me<img src="https://github.com/Seyma44/Seyma44/assets/3766249/b5115861-e923-4c2b-b5d7-3d475035f729" width="58px" alt="connect">  <a  href="https://www.linkedin.com/in/seymasandikci/" target="blank"><img  align="center"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"  alt="şeyma sandıkçı"  height="30"  width="40"  /></a> </p>
 <hr align="center" size="1px" width="100%" color="#fc05e4">
