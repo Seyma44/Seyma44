@@ -1,7 +1,7 @@
 <h1 align="center"> Hello from Seyma <img src="https://github.com/Seyma44/Seyma44/assets/3766249/55e442cf-eb81-4534-8cc8-c38ee91b99bf" width="38px" alt="hi"> 
 
 
-<h3  align="center">A passionate frontend developer from Türkiye</h3>
+<h3  align="center">A passionate software development engineer from Türkiye</h3>
 <div align="center">
   <img src="https://github.com/Seyma44/Seyma44/assets/3766249/459905c1-c887-4d5f-9a03-a3adebbedfbc" width="300" height="200"/>
 </div>
