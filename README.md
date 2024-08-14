@@ -11,7 +11,7 @@
 
 
  <p  align="center">
-<p  align="center"> A computer Engineer </p>
+<p  align="center"> Computer Engineer </p>
 
 
  ⭐ Know about my experiences [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seymasandikci/) 
